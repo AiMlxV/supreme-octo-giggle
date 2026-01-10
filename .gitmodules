@@ -4,3 +4,9 @@
 [submodule "Q2"]
 	path = Q2
 	url = https://github.com/AiMlxV/Q2.git
+[submodule "Q3"]
+	path = Q3
+	url = https://github.com/AiMlxV/Q3.git
+[submodule "Q4"]
+	path = Q4
+	url = https://github.com/AiMlxV/Q4.git
